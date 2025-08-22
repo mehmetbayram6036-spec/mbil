@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Bilgisayar Satış Sitesi
 
-## Getting Started
+Bu proje Next.js 15 ile geliştirilmiş bir bilgisayar satış web sitesidir.
 
-First, run the development server:
+## Özellikler
+
+- Ürün listesi ve detay sayfaları
+- Admin paneli (kullanıcı adı: admin, şifre: 123Tema456)
+- SEO optimizasyonu
+- Responsive tasarım
+- Ürün arama ve filtreleme
+
+## Teknolojiler
+
+- Next.js 15
+- React 19
+- TypeScript
+- Tailwind CSS
+- Vercel (deployment)
+
+## Kurulum
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Build
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run build
+npm start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Vercel Deployment
 
-## Learn More
+Bu proje Vercel'de deploy edilmek üzere hazırlanmıştır. Vercel otomatik olarak:
 
-To learn more about Next.js, take a look at the following resources:
+- `npm install` komutunu çalıştırır
+- `npm run build` komutunu çalıştırır
+- Next.js uygulamasını deploy eder
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Proje Yapısı
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
+src/
+├── app/
+│   ├── page.tsx          # Ana sayfa
+│   ├── layout.tsx        # Ana layout
+│   ├── admin/
+│   │   └── page.tsx      # Admin paneli
+│   └── urun/
+│       └── [id]/
+│           └── page.tsx  # Ürün detay sayfası
+public/
+├── images/               # Ürün resimleri
+├── sitemap.xml          # SEO sitemap
+└── robots.txt           # SEO robots
+```
 
-## Deploy on Vercel
+## Admin Panel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- URL: `/admin`
+- Kullanıcı adı: `admin`
+- Şifre: `123Tema456`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## SEO
+
+Proje aşağıdaki SEO optimizasyonlarını içerir:
+
+- Meta tags
+- Open Graph
+- Twitter Cards
+- Structured Data (Schema.org)
+- Sitemap.xml
+- Robots.txt
+- Canonical URLs

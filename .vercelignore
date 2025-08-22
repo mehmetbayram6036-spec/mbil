@@ -1,0 +1,29 @@
+# Node.js scripts
+*.js
+!next.config.js
+!next.config.ts
+
+# Excel files
+*.xlsx
+
+# JSON data files
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+
+# Documentation
+*.md
+!README.md
+
+# Images outside public folder
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+!public/**/*
+
+# Temporary files
+*.tmp
+*.temp
