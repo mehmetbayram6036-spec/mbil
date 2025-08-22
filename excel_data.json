@@ -1,0 +1,642 @@
+[
+  [
+    "id - Ürün ID'si",
+    "name - Laptop adı",
+    "brand - Marka (Apple, Dell, HP, vb.)",
+    "price - Fiyat (TL)",
+    "oldPrice - Eski fiyat (opsiyonel)",
+    "discount - İndirim yüzdesi (opsiyonel)",
+    "specs - Teknik özellikler",
+    "category - Kategori (Premium, Gaming, Business, Budget)"
+  ],
+  [
+    1,
+    "MACBOOK PRO BARLI 2019  İŞLEMCİ İ9 DİSK 1 TB NVME 16 GB RAM",
+    "Apple",
+    28500,
+    31000,
+    null,
+    "MACBOOK PRO 2019 TOUCH BARLI \r\n2019 MODEL\r\nİ9 İŞLEMCİ\r\n1 TB NVME\r\n16 GB RAM\r\nRADEON PRO 550M HARİCİ 4 GB EKRAN KARTI\r\n16 İNÇ EKRAN BOYUTU\r\nPİL DEVİR : 376",
+    "business"
+  ],
+  [
+    2,
+    "MACBOOK PRO BARLI 2018  İŞLEMCİ İ7 DİSK 512 NVME 16 GB RAM",
+    "Apple",
+    19500,
+    22000,
+    null,
+    "MACBOOK PRO 2018 TOUCH BARLI \r\n2018 MODEL\r\nİ7 İŞLEMCİ\r\n512 NVME\r\n16 GB RAM\r\nRADEON PRO 560X HARİCİ 4 GB EKRAN KARTI\r\n15 İNÇ EKRAN BOYUTU\r\nPİL DEVİR : 311",
+    "business"
+  ],
+  [
+    3,
+    "DELL PRECISION İ9 11. NESİL 48 GB RAM 512 M2SSD RTX A2000",
+    "Dell",
+    43500,
+    46000,
+    null,
+    "\r\nDELL PRECISION 7560\r\n İŞLEMCİ : İ9 11. NESİL  \r\n RAM : 48 GB RAM\r\n SSD : 512 M2SSD \r\nGRAFİK : NVIDIA GEFORCE RTX A2000 HARİCİ 4 GB EKRAN KARTI\r\n EKRAN : 15.6 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    4,
+    "FİJUTSU LİFEBOOK İ7 8. NESİL İŞLEMCİ 16 GB RAM 512 M2SSD",
+    "Diğer",
+    11500,
+    14000,
+    null,
+    "FİJUTSU LİFEBOOK U\r\n İŞLEMCİ : İ7 8. NESİL\r\n RAM : 16 GB RAM\r\n SSD : 512 M2SSD \r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 14 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\nWİNDOWS VE OFİS LİSANSLI KURULUDUR\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    5,
+    "THİNKPAD X1 CARBON İ5 11. NESİL 16 GB RAM 256 M2SSD ",
+    "Lenovo",
+    23500,
+    26000,
+    null,
+    "THİNKPAD X1 CARBON \r\n İŞLEMCİ : İ5 11. NESİL\r\n RAM : 16 GB RAM\r\n SSD : 256 M2SSD\r\nGRAFİK : INTEL IRIS GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\nEKRAN : 14 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\nSİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    6,
+    "LENOVO T580 İ5 8. NESİL 16 GB RAM 256 NVME DOKUNMATİK",
+    "Lenovo",
+    12500,
+    15000,
+    null,
+    "DOKUNMATİK ÇİFT BATARYA\r\nLENOVO THİNKPAD T580  \r\n İŞLEMCİ : İ5 8. NESİL\r\n RAM : 16 GB RAM\r\n SSD : 256 NVME \r\nGRAFİK : İNTEL UHD GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 15.6 İNÇ EKRAN BOYUTU\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    7,
+    "DELL İ5 8. NESİL İŞLEMCİ 16 GB RAM 512 M2SSD ",
+    "Dell",
+    9800,
+    12300,
+    null,
+    "MODEL DELL LATİTUDE 7390\r\n İŞLEMCİ İ5 8. NESİL İŞLEMCİ\r\n BELLEK : 16 GB DDR4 \r\n SSD : 512 M2SSD\r\nGRAFİK : İNTEL UHD GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 12.5 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nKüçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    8,
+    "LENOVO İ7 8. NESİL 16 GB RAM 512 M2SSD MX150",
+    "Lenovo",
+    12500,
+    15000,
+    null,
+    " İŞLEMCİ : İ7 8. NESİL \r\n RAM : 16 GB RAM\r\n SSD : 512 M2SSD \r\nGRAFİK : INTEL IRIS GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\nGRAFİK : NVIDIA GEFORCE MX 150 HARİCİ 2 GB EKRAN KARTI\r\n EKRAN : 14 İNÇ EKRAN BOYUTU\r\n SİSTEM : WİNDOWS 10 PRO KULLANIMA HAZIR \r\nIŞIKLI KLAVYE\r\n\r\nWİNDOWS VE OFİS PROGRAMLARI LİSANSLI KURULUDUR\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    9,
+    "THİNKPAD X1 CARBON İ5 10. NESİL 16 GB RAM 256 M2SSD DOKUNMATİK",
+    "Lenovo",
+    17500,
+    20000,
+    null,
+    "THİNKPAD X1 CARBON  8. GENERATİON\r\n İŞLEMCİ : İ5 10. NESİL\r\n RAM : 16 GB RAM\r\n SSD : 256 M2SSD\r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\nEKRAN : 14 İNÇ EKRAN BOYUTU\r\nSİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    10,
+    "ASUS ZENBOOK  İ7 10. NESİL 16 GB RAM 512 M2SSD ",
+    "Asus",
+    17500,
+    20000,
+    null,
+    "ZENBOOK UX425JA\r\n İŞLEMCİ : İ7 10. NESİL \r\n RAM : 16 GB RAM\r\n SSD : 512 M2SSD \r\nGRAFİK : INTEL IRIS GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 14 İNÇ EKRAN BOYUTU\r\n SİSTEM : WİNDOWS 10 PRO KULLANIMA HAZIR \r\nIŞIKLI KLAVYE\r\n\r\nWİNDOWS VE OFİS PROGRAMLARI LİSANSLI KURULUDUR\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    11,
+    "SAMSUNG İ5 11. NESİL 8 GB RAM 512 M2SSD ",
+    "Samsung",
+    14500,
+    17000,
+    null,
+    "İŞLEMCİ : İ5 11. NESİL\r\n RAM : 8 GB RAM\r\n SSD :  512 M2SSD\r\nGRAFİK : INTEL IRIS DARİCİ 4 GB EKRAN KARTI\r\n15.6 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nBATARYA SAĞLIĞI % 93\r\nIŞIKLI KLAVYE\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    12,
+    "LENOVO THİNKPAD T14S  İ5 10. NESİL 8 RAM 256 M2SSD ",
+    "Lenovo",
+    13500,
+    16000,
+    null,
+    "MODEL: T14S \r\nİŞLEMCİ : İ5 10. NESİL\r\n RAM : 8 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : INTEL IRIS GRAPHIC DAHİLİ 4 GB EKRAN KARTI\r\nEKRAN : 14 İNÇ EKRAN BOYUTU\r\nPİL SAĞLIĞI % DE 97 SAĞLIKLI\r\nSİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    13,
+    "LENOVO YOGA İ5 11.NESİL 8 GB RAM 512 M2SSD KATLANIR DOKUNMATİK",
+    "Lenovo",
+    15500,
+    18000,
+    null,
+    "LENOVO YOGA \r\nTAM KATLANIR DOKUNMATİK\r\nİ5 11 NESİL\r\n8 GB RAM\r\n512 M2SSD\r\n14 İNÇ EKRAN BOYUTU\r\nORJİNAL TYPE-C ŞARJ ALETİ\r\nIŞIKLI KLAVYE\r\nBATARYA % DE 100 SAĞLIKLI\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    14,
+    "ASUS VİVOBOOK İ3 10. NESİL 8 GB RAM 256 M2SSD",
+    "Asus",
+    9800,
+    12300,
+    null,
+    "ASUS VİVOBOOK\r\n İŞLEMCİ : İ3 10. NESİL \r\n RAM : 8 GB RAM\r\n SSD : 256 M2SSD \r\nGRAFİK : INTEL HD GRAPHIC DAHİLİ 4 GB EKRAN KARTI\r\n EKRAN : 14 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\nWİNDOWS VE OFİS PROGRAMLARI LİSANSLI KURULUDUR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    15,
+    "DELL XPS İ7 6. NESİL 16 GB RAM 512 M2SSD DOKUNMATİK",
+    "Dell",
+    12750,
+    15250,
+    null,
+    "DELL XPS 13 9350 DOKUNMATİK\r\nİŞLEMCİ : İ7 6. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  512 M2SSD\r\nIŞIKLI KLAVYE\r\nGRAFİK : INTEL DAHİLİ 8 GB EKRAN KARTI\r\nEKRAN : 13 İNÇ EKRAN BOYUTU\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    16,
+    "ASUS TUF İ5 11. NESİL 16 GB RAM 512 M2SSD RTX 3060",
+    "Asus",
+    27000,
+    29500,
+    null,
+    "ASUS TUF DASH F15 \r\nİŞLEMCİ : İ5 11. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  512 M2SSD\r\nGRAFİK : NVİDİA GEFORCE  RTX 3060 HARİCİ 6 GB\r\n15.6 İNÇ EKRAN BOYUTU\r\nORJİNAL ŞARJ ALETİ\r\n144 HZ EKRAN TAZELEME\r\nRGB KLAVYE IŞIKLI \r\nKOZMETİK SIFIR AYARINDA\r\n\r\n\r\nWİNDOWS VE OFİS PROGRAMLARI LİSANSLI KURULUDUR\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    17,
+    "LENOVO GAMİNG RYZEN 5 İŞLEMCİ 32 GB RAM 512 M2SSD GTX 1650 Tİ",
+    "Lenovo",
+    17500,
+    20000,
+    null,
+    " İŞLEMCİ : RYZEN 5 4600H İŞLEMCİ\r\n RAM : 32 GB RAM\r\n SSD     : 512 M2SSD\r\nGRAFİK : NVİDİA GTX 1650 Tİ  HARİCİ 4 GB EKRAN KARTI\r\n EKRAN : 15.6 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\nWİNDOWS VE OFİS PROGRAMLARI LİSANSLI KURULUDUR\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\nTESLİM SONRASINDA ÖDEME YAPABİLİRSİNİZ\r\nKAPIDA ÖDEMEDİR\r\n                         \r\n\r\nKüçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100 Metre\r\n\r\n             Küçükçekmece Metrobüs durağına 450 Metre\r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    18,
+    "THİNKPAD P51  İ7 7. NESİL 32 GB RAM 256 M2SSD NVİDİA M1200M",
+    "Lenovo",
+    19500,
+    22000,
+    null,
+    " MODEL P51\r\n İŞLEMCİ İ7 7. NESİL İŞLEMCİ\r\n BELLEK : 32 GB DDR4 \r\n SSD : 256 M2SSD\r\nGRAFİK : NVİDİA QUADRO M1200M HARİCİ 4 GB EKRAN KARTI\r\nGRAFİK : İNTEL HD GRAPHIC DAHİLİ 20 GB EKRAN KARTI\r\n EKRAN : 15.6 İNÇ EKRAN BOYUTU\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\nIŞIKLI KLAVYE\r\n\r\nWİNDOWS VE OFİS PROGRAMLARI LİSANSLI KURULUDUR\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nKüçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    19,
+    "HUAWEİ i7 10. NESİL  16 GB RAM 1TB M2SSD MX250 DOKUNMATİK",
+    "Huawei",
+    23500,
+    26000,
+    null,
+    "MATEBOOK X PRO\r\nDOKUNMATİK EKRAN\r\n İŞLEMCİ : İ7 10. NESİL İŞLEMCİ \r\n BELLEK : 16 GB DDR 4 \r\n SSD : 1 TB M2SSD \r\nGRAFİK : NVIDIA GEFORCE MX250 HARİCİ 2 GB HARİCİ EKRAN KARTI\r\n EKRAN : 14 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE \r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR ",
+    "business"
+  ],
+  [
+    20,
+    "SAMSUNG İ5 13. NESİL 8 GB RAM 256 M2SSD KATLANIR DOKUNMATİK",
+    "Samsung",
+    19500,
+    22000,
+    null,
+    "SAMSUNG TAM KATLANIR DOKUNMATİK\r\n İŞLEMCİ : İ5 13. NESİL\r\n RAM : 8 GB RAM\r\n SSD : 256 M2SSD \r\nGRAFİK : INTEL IRIS GRAPHIC DAHİLİ 4 GB EKRAN KARTI\r\n EKRAN : 13.3 İNÇ EKRAN BOYUTU\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    21,
+    "THİNKPAD P16 WORKSTATİON İ7 12. NESİL 48 GB RAM 1 TB M2SSD",
+    "Lenovo",
+    52000,
+    54500,
+    null,
+    "THİNKPAD P16 WORKSTATİON\r\n İŞLEMCİ : İ7 12. NESİL İŞLEMCİ\r\n RAM : 48 GB RAM\r\n SSD : 1 TB  M2SSD\r\nGRAFİK : NVİDİA RTX A1000 HARİCİ 4 GB EKRAN KARTI\r\n EKRAN : 15.6 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    22,
+    "ASUS  İ5 7. NESİL 8 GB RAM 512 M2SSD GEFORCE 940 MX",
+    "Asus",
+    10500,
+    13000,
+    null,
+    " İŞLEMCİ : İ5 7. NESİL İŞLEMCİ  \r\n RAM : 8 GB RAM\r\n SSD : 512 M2SSD \r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 4 GB EKRAN KARTI\r\nGRAFİK : NVIDIA GEFORCE 940MX HARİCİ 2 GB EKRAN KARTI\r\n EKRAN : 14 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    23,
+    "HP ZBOOK İ7 10. NESİL 16 GB RAM 256 M2SSD ",
+    "HP",
+    17500,
+    20000,
+    null,
+    "HP ZBOOK FIREFLY 14 G7\r\nİŞLEMCİ : İ7 10. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 8 GB\r\n14 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nBATARYA SAĞLIKLI\r\nIŞIKLI KLAVYE\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    24,
+    "DELL İ5 7. NESİL İŞLEMCİ 8 GB RAM 256 M2SSD DOKUNMATİK EKRAN",
+    "Dell",
+    10250,
+    12750,
+    null,
+    "MODEL DELL LATİTUDE 5490 \r\n İŞLEMCİ İ5 7. NESİL İŞLEMCİ\r\n BELLEK : 8 GB DDR4 \r\n SSD : 256 M2SSD\r\nGRAFİK : İNTEL UHD GRAPHIC DAHİLİ 4 GB EKRAN KARTI\r\n EKRAN : 14 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nKüçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    25,
+    "DELL İ5 8. NESİL İŞLEMCİ 8 GB RAM 256 M2SSD DOKUNMATİK EKRAN",
+    "Dell",
+    10500,
+    13000,
+    null,
+    "MODEL DELL LATİTUDE 5490 \r\n İŞLEMCİ İ5 8. NESİL İŞLEMCİ\r\n BELLEK : 8 GB DDR4 \r\n SSD : 256 M2SSD\r\nGRAFİK : İNTEL UHD GRAPHIC DAHİLİ 4 GB EKRAN KARTI\r\n EKRAN : 14 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nKüçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    26,
+    "ASUS VİVOBOOK İ3-N305 İŞLEMCİ 8 GB RAM 128 M2SSD",
+    "Asus",
+    11500,
+    14000,
+    null,
+    "ASUS VİVOBOOK \r\nİŞLEMCİ : İ3-N305\r\n RAM : 8 GB RAM\r\n SSD :  128 M2SSD\r\nGRAFİK : INTEL IRIS DAHİLİ 4 GB EKRAN KARTI\r\n14 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nIŞIKLI KLAVYE\r\nBATARYA SAĞLIĞI % 99\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    27,
+    "SAMSUNG GALAXY BOOK İ7 13. NESİL 16 GB RAM 512 M2SSD ",
+    "Samsung",
+    32500,
+    35000,
+    null,
+    "GALAXY BOOK\r\nİŞLEMCİ : İ7 13. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  512 M2SSD\r\nGRAFİK : INTEL IRIS DARİCİ 8 GB EKRAN KARTI\r\n15.6 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nBATARYA SAĞLIKLI\r\nIŞIKLI KLAVYE\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    28,
+    "HP ELİTBOOK RYZEN 5 6650U İŞLEMCİ 16 GB RAM 256 M2SSD DOKUNMATİK",
+    "HP",
+    16500,
+    19000,
+    null,
+    "DOKUNMATİK EKRAN\r\nHP ELİTBOOK845 G9\r\nİŞLEMCİ : RYZEN 5 6650U İŞLEMCİ\r\n RAM : 16 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : AMD RADEON  DAHİLİ 8 GB EKRAN KARTI\r\nIŞIKLI KLAVYE\r\nKOZMETİK SİFİR AYARINDA\r\nORJİNAL ŞARJ ALETİ\r\n14 İNÇ EKRAN BOYUTU\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    29,
+    "HP ZBOOK İ7 10. NESİL 32 GB RAM 512 M2SSD QUADRO P520",
+    "HP",
+    26500,
+    29000,
+    null,
+    "HP ZBOOK FURY G7\r\nİŞLEMCİ : İ7 10. NESİL\r\n RAM : 32 GB RAM\r\n SSD :  512 M2SSD\r\nGRAFİK : NVİDİA QUADRO P520 HARİCİ 4 GB EKRAN KARTI\r\n15.6 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nBATARYA SAĞLIKLI\r\nIŞIKLI KLAVYE\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    30,
+    "HP OMEN İ5 9. NESİL 16 GB RAM 256 M2SSD GTX 1660 Tİ",
+    "HP",
+    19250,
+    21750,
+    null,
+    "HP OMEN 15-DC1XXX \r\nİŞLEMCİ : İ5 9. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : NVİDİA GEFORCE GTX 1660 Tİ HARİCİ 6 GB EKRAN KARTI \r\nIŞIKLI KLAVYE RGB\r\nORJİNAL ŞARJ ALETİ\r\n15.6 İNÇ EKRAN BOYUTU\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    31,
+    "HP ZBOOK İ7 8. NESİL 16 GB RAM 1 TB M2SSD QUADRO P1000",
+    "HP",
+    19500,
+    22000,
+    null,
+    "HP ZBOOK STUDİO G5\r\nİŞLEMCİ : İ7 8 NESİL\r\n RAM : 16 GB RAM\r\n SSD :  1 TB M2SSD\r\nGRAFİK : NVİDİA QUADRO P1000 HARİCİ 4 GB\r\n15.6 İNÇ EKRAN BOYUTU\r\nORJİNAL ŞARJ ALETİ\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nIŞIKLI KLAVYE\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    32,
+    "HP ELİTBOOK RYZEN 5 PRO İŞLEMCİ 16 GB RAM 256 M2SSD DOKUNMATİK",
+    "HP",
+    13500,
+    16000,
+    null,
+    "DOKUNMATİK EKRAN\r\nHP ELİTBOOK 845 G7\r\nRYZEN 5 PRO 4650U İŞLEMCİ\r\n16 GB RAM\r\n256 M2SSD\r\n14 İNÇ EKRAN BOYUTU\r\nORJİNAL ŞARJ ALETİ\r\nKOZMETİĞİ SIFIR AYARINDA\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    33,
+    "HP ZBOOK İ7 10. NESİL 32 GB RAM 1 TB M2SSD QUADRO T1200",
+    "HP",
+    29500,
+    32000,
+    null,
+    "HP ZBOOK FURY G7\r\nİŞLEMCİ : İ7 10. NESİL\r\n RAM : 32 GB RAM\r\n SSD :  1 TB M2SSD\r\nGRAFİK : NVİDİA QUADRO T1200 HARİCİ 4 GB EKRAN KARTI\r\n15.6 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nBATARYA SAĞLIKLI\r\nIŞIKLI KLAVYE\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    34,
+    "HP ZBOOK İ7 11. NESİL 32 GB RAM 1 TB M2SSD QUADRO RTX A3000",
+    "HP",
+    38500,
+    41000,
+    null,
+    "HP ZBOOK FURY G8\r\nİŞLEMCİ : İ7 11. NESİL\r\n RAM : 32 GB RAM\r\n SSD :  1 TB M2SSD\r\nGRAFİK : NVİDİA QUADRO RTX A3000 HARİCİ 6 GB EKRAN KARTI\r\n15.6 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nBATARYA SAĞLIKLI\r\nIŞIKLI KLAVYE\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    35,
+    "MACBOOK AİR 2012  İ5 İŞEMCİ 4 RAM 120 SSD ",
+    "Apple",
+    5250,
+    7750,
+    null,
+    "MACBOOK AİR 2012\r\nİ5 İŞEMCİ\r\n4 RAM\r\n120 SSD\r\nDEVİR SAYISI 670\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nKüçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    36,
+    "HUAWEİ i5 8. NESİL  8 GB RAM 256 M2SSD GEFORCE MX150",
+    "Huawei",
+    11500,
+    14000,
+    null,
+    " İŞLEMCİ : İ5 8. NESİL İŞLEMCİ \r\n BELLEK : 8 GB DDR 4 \r\n SSD : 256 M2SSD \r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 4 GB EKRAN KARTI\r\nGRAFİK : NVIDIA GEFORCE MX150 HARİCİ 2 GB HARİCİ EKRAN KARTI\r\n EKRAN : 14 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE \r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n\r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    37,
+    "THİNKPAD X1 CARBON İ5 8. NESİL 16 GB RAM 256 M2SSD DOKUNMATİK",
+    "Lenovo",
+    15500,
+    18000,
+    null,
+    "THİNKPAD X1 CARBON  7. GENERATİON\r\n İŞLEMCİ : İ5 8. NESİL\r\n RAM : 16 GB RAM\r\n SSD : 256 M2SSD\r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\nEKRAN : 14.1 İNÇ EKRAN BOYUTU\r\nSİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    38,
+    "MACBOOK PRO İ5 İŞLEMCİ 8 GB RAM 256 M2SSD TOUCH BARLI",
+    "Apple",
+    18500,
+    21000,
+    null,
+    "MACBOOK PRO  TOUCH BARLI\r\n2019 MODEL\r\nİ5 İŞLEMCİ\r\n256 M2SSD\r\n8 GB RAM\r\n13 İNÇ EKRAN BOYUTU\r\nPİL DEVİR : 513\r\nORJİNAL ŞARJ ALETİ\r\n",
+    "business"
+  ],
+  [
+    39,
+    "ZBOOK İ7 11. NESİL 16 GB RAM 512 M2SSD QUADRO T1200",
+    "HP",
+    32500,
+    35000,
+    null,
+    "HP ZBOOK FURY G8\r\nİŞLEMCİ : İ7 11. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  512 M2SSD\r\nGRAFİK : NVİDİA QUADRO T1200 HARİCİ 4 GB EKRAN KARTI\r\n15.6 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nBATARYA % 90 SAĞLIKLI\r\nIŞIKLI KLAVYE\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    40,
+    "THİNKPAD İ7 10. NESİL 32 GB RAM 1 TB M2SSD QUADRO T2000",
+    "Lenovo",
+    28500,
+    31000,
+    null,
+    "THİNKPAD WORKSTATİON P15\r\nİŞLEMCİ : İ7 10. NESİL\r\n RAM : 32 GB RAM\r\n SSD :  1 TB M2SSD\r\nGRAFİK : NVİDİA QUADRO T2000 HARİCİ 4 GB EKRAN KARTI\r\n15.6 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nBATARYA % 100 SAĞLIKLI\r\nIŞIKLI KLAVYE\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    41,
+    "HP PROBOOK İ5 11. NESİL 16 GB RAM 256 M2SSD",
+    "HP",
+    14500,
+    17000,
+    null,
+    "HP PROBOOK 650 G8\r\nİŞLEMCİ : İ5 11. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : INTEL IRIS DAHİLİ 8 GB EKRAN KARTI\r\n15.6 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nIŞIKLI KLAVYE\r\nORJİNAL ŞARJ ALETİ\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    42,
+    "HP ELİTBOOK İ7 11. NESİL 16 GB RAM 512 M2SSD",
+    "HP",
+    16500,
+    19000,
+    null,
+    "HP ELİTBOOK 840 G8\r\nİŞLEMCİ : İ7 11. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  512 M2SSD\r\nGRAFİK : INTEL IRIS GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\n14.1 İNÇ EKRAN BOYUTU\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nORJİNAL ŞARJ ALETİ\r\nIŞIKLI KLAVYE\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m ",
+    "business"
+  ],
+  [
+    43,
+    "HP ZBOOK İ7 8. NESİL 32 GB RAM 256 M2SSD QUADRO P2000",
+    "HP",
+    19500,
+    22000,
+    null,
+    "HP ZBOOK 15 G5\r\nİŞLEMCİ : İ7 8 NESİL\r\n RAM : 32 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : NVİDİA QUADRO P2000 HARİCİ 4 GB\r\n15.6 İNÇ EKRAN BOYUTU\r\nORJİNAL ŞARJ ALETİ\r\nKOZMETİK ÇOK İYİ DURUMDA\r\nIŞIKLI KLAVYE\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    44,
+    "HP ELİTBOOK 845 G8  RYZEN 5 PRO 5650U İŞLEMCİ 16 GB RAM 256 M2SSD ",
+    "HP",
+    13900,
+    16400,
+    null,
+    "DOKUNMATİK EKRAN\r\nHP ELİTBOOK 845 G8\r\nRYZEN 5 PRO 5650U İŞLEMCİ\r\n16 GB RAM\r\n256 M2SSD\r\n14 İNÇ EKRAN BOYUTU\r\nORJİNAL ŞARJ ALETİ\r\nKOZMETİĞİ SIFIR AYARINDA\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    45,
+    "THİNKPAD P15 WORKSTATİON İ7 11. NESİL 32 GB RAM 1 TB M2SSD",
+    "Lenovo",
+    40500,
+    43000,
+    null,
+    "THİNKPAD P15 WORKSTATİON\r\n İŞLEMCİ : İ7 11. NESİL İŞLEMCİ\r\n RAM : 32 GB RAM\r\n SSD : 1 TB  M2SSD\r\nGRAFİK : NVİDİA RTX A3000 HARİCİ 6 GB EKRAN KARTI\r\n EKRAN : 15.6 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\nBATARYA YÜZDE 100 SAĞLIKLI\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    46,
+    "LENOVO THİNKPAD L13  İ3 11. NESİL 8 GB RAM 256 M2SSD ",
+    "Lenovo",
+    11500,
+    14000,
+    null,
+    "LENOVO THİNKPAD L13  \r\nİŞLEMCİ : İ3 11. NESİL\r\n RAM : 8 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : INTEL IRIS GRAPHIC DAHİLİ 4 GB EKRAN KARTI\r\nEKRAN : 14 İNÇ EKRAN BOYUTU\r\nSİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    47,
+    "HP ELİTBOOK İ5 11. NESİL 16 GB RAM 256 M2SSD ",
+    "HP",
+    13500,
+    16000,
+    null,
+    "HP ELİTBOOK 840 G8 \r\nİŞLEMCİ : İ5 11. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : INTEL IRIS GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\nEKRAN : 14 İNÇ EKRAN BOYUTU\r\nSİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    48,
+    "HP İ5 10. NESİL 16 GB RAM 256 M2SSD DOKUNMATİK",
+    "HP",
+    13250,
+    15750,
+    null,
+    "HP ELİTBOOK 840 G7 DOKUNMATİK\r\nİŞLEMCİ : İ5 10. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\nEKRAN : 14.1 İNÇ EKRAN BOYUTU\r\nSİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    49,
+    "THİNKPAD X13 GEN2  İ5 11. NESİL 8 GB RAM 256 M2SSD DOKUNMATİK",
+    "Lenovo",
+    15500,
+    18000,
+    null,
+    "THİNKPAD X13 GEN2  DOKUNMATİK\r\n İŞLEMCİ : İ5 11. NESİL  \r\n RAM : 8 GB RAM\r\n SSD : 256 M2SSD\r\nGRAFİK : INTEL IRIS GRAPHIC DAHİLİ 4 GB EKRAN KARTI\r\nEKRAN : 13.3 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\nBATARYA YÜZDE 100\r\nSİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    50,
+    "DELL PRECISION İ7 10. NESİL 32 GB RAM 512 M2SSD RTX 3000",
+    "Dell",
+    31500,
+    34000,
+    null,
+    "DELL PRECISION 7550\r\n İŞLEMCİ : İ7 10. NESİL  \r\n RAM : 32 GB RAM\r\n SSD : 512 M2SSD \r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 16 GB EKRAN KARTI\r\nGRAFİK : NVIDIA GEFORCE RTX 3000 HARİCİ 6 GB EKRAN KARTI\r\n EKRAN : 15.6 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    51,
+    "THİNKPAD P53  İ7 9. NESİL 32 GB RAM 512 M2SSD QUADRO T1000",
+    "Lenovo",
+    25500,
+    28000,
+    null,
+    "THİNKPAD P53\r\n İŞLEMCİ : İ7 9. NESİL\r\n RAM : 32 GB RAM\r\n SSD :  512 M2SSD \r\nGRAFİK : İNTEL UHD GRAPHIC DAHİLİ 16 GB EKRAN KARTI\r\nGRAFİK : NVIDIA QUADRO T1000 HARICI 4 GB EKRAN KARTI\r\n EKRAN : 15.6 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\nPİL SAĞLIĞI 100 DE 87\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    52,
+    "ASUS ZENBOOK RYZEN 5 İŞLEMCİ 8 GB RAM 512 M2SSD",
+    "Asus",
+    16900,
+    19400,
+    null,
+    "ASUS ZENBOOK\r\n İŞLEMCİ : RYZEN 5 4500U  \r\n RAM : 8 GB RAM\r\n SSD : 512 M2SSD \r\nGRAFİK : AMD RADEON DAHİLİ 4 GB EKRAN KARTI\r\n EKRAN : 13.3 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n",
+    "business"
+  ],
+  [
+    53,
+    "THİNKPAD P50  İ7 6. NESİL 32 GB RAM 256 SSD  QUADRO M1000M",
+    "Lenovo",
+    12750,
+    15250,
+    null,
+    " İŞLEMCİ : İ7 6. NESİL\r\n RAM : 16 GB RAM\r\n SSD : 256 m2SSD \r\nGRAFİK : INTEL HD GRAPHIC DAHİLİ 16 GB EKRAN KARTI\r\nGRAFİK : NVIDIA QUADRO M100M HARİCİ 2 GB EKRAN KARTI\r\n EKRAN : 15.6 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\n\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    54,
+    "LENOVO THİNKPAD İ5 11. NESİL 16 GB RAM 256 M2SSD",
+    "Lenovo",
+    13500,
+    16000,
+    null,
+    "LENOVO THİNKPAD L14\r\n İŞLEMCİ : İ5 11. NESİL İŞLEMCİ\r\n RAM : 16 GB RAM\r\n SSD : 256 M2SSD\r\nGRAFİK : İNTEL IRIS XE GRAPHİC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 14.1 İNÇ EKRAN BOYUTU\r\n IŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    55,
+    "HP AMD RYZEN 5 PRO İŞLEMCİ 16 GB RAM 256 M2SSD",
+    "HP",
+    12900,
+    15400,
+    null,
+    " İŞLEMCİ : RYZEN 5 PRO 4650U İŞLEMCİ\r\n BELLEK : 16 GB DDR 4 \r\n SSD : 256  M2SSD\r\nGRAFİK : AMD RADEON GRAPHİC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 13.3 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    56,
+    "HP İ5 13. NESİL İŞLEMCİ 16 GB RAM 256 M2SSD",
+    "HP",
+    19200,
+    21700,
+    null,
+    " İŞLEMCİ : İ5 13. NESİL İŞLEMCİ\r\n BELLEK : 16 GB DDR 5 \r\n SSD : 256 M2SSD\r\nGRAFİK : İNTEL IRIS GRAPHİC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 14.1 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    57,
+    "THİNKPAD RYZEN 5 PRO İŞLEMCİ 16 GB RAM 1TB M2SSD DOKUNMATİK  ",
+    "Lenovo",
+    15500,
+    18000,
+    null,
+    "THİNKPAD T14S DOKUNMATİK\r\n İŞLEMCİ : RYZEN 5 PRO 4650U İŞLEMCİ \r\n BELLEK : 16 GB DDR 4\r\n SSD : 1 TB  M2SSD \r\nGRAFİK : AMD RADEON GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 14.1 İNÇ EKRAN BOYUTU\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n\r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.\r\n",
+    "business"
+  ],
+  [
+    58,
+    "THİNKPAD İ5 8. NESİL 16 GB RAM 256 M2SSD DOKUNMATİK",
+    "Lenovo",
+    12500,
+    15000,
+    null,
+    " MODEL T480S DOKUNMATİK\r\n İŞLEMCİ İ5 8. NESİL İŞLEMCİ\r\n BELLEK : 16 GB DDR4 \r\n SSD : 256 M2SSD\r\nGRAFİK : İNTEL HD GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 14.1  İNÇ EKRAN BOYUTU\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nKüçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    59,
+    "THİNKPAD T14   İ5 10. NESİL 16 GB RAM 256 M2SSD",
+    "Lenovo",
+    12500,
+    15000,
+    null,
+    "THİNKPAD T14   \r\nİŞLEMCİ : İ5 10. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\nEKRAN : 14.1 İNÇ EKRAN BOYUTU\r\nSİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    60,
+    "THİNKPAD İ7 10. NESİL 16 GB RAM 256 M2SSD",
+    "Lenovo",
+    17900,
+    20400,
+    null,
+    "THİNKPAD T14S\r\n İŞLEMCİ : İ7 10. NESİL  \r\n RAM : 16 GB RAM\r\n SSD : 256 M2SSD \r\nGRAFİK : INTEL UHD GRAPHIC DAHİLİ 8 GB EKRAN KARTI\r\n EKRAN : 14.1 İNÇ EKRAN BOYUTU\r\nIŞIKLI KLAVYE\r\n SİSTEM : WİNDOWS 11 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    61,
+    "SURFACE LAPTOP İ5 7. NESİL 8 GB RAM 256 NVME DDKUNMATİK",
+    "Microsoft",
+    9500,
+    12000,
+    null,
+    "SURFACE PRO 5\r\nDOKUNMATİK EKRAN\r\nİŞLEMCİ : İ5 7. NESİL\r\n RAM : 16 GB RAM\r\n SSD :  256 NVME\r\nGRAFİK : INTEL DAHİLİ 4 GB EKRAN KARTI\r\nIŞIKLI KLAVYE\r\nEKRAN : 13 İNÇ EKRAN BOYUTU\r\n\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    62,
+    "THİNKPAD İ7 8. NESİL 16 GB RAM 256 M2SSD  RX 550",
+    "Lenovo",
+    13500,
+    16000,
+    null,
+    "THİNKPAD E580\r\n İŞLEMCİ : İ7 8. NESİL  \r\n RAM : 16 GB RAM\r\n SSD : 256 M2SSD \r\nGRAFİK : AMD RADEON RX 550 HARİCİ 2 GB EKRAN KARTI\r\nEKRAN : 15.6 İNÇ EKRAN BOYUTU\r\n SİSTEM : WİNDOWS 10 PRO  KULLANIMA HAZIR \r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ],
+  [
+    63,
+    "HP ELİTBOOK İ5 6. NESİL 8 GB RAM 256 M2SSD",
+    "HP",
+    8250,
+    10750,
+    null,
+    "HP ELİTBOOK 840 G3\r\nİŞLEMCİ : İ5 6. NESİL\r\n RAM : 8 GB RAM\r\n SSD :  256 M2SSD\r\nGRAFİK : INTEL  DAHİLİ 4 GB EKRAN KARTI\r\nORJİNAL  ŞARJ ALETİ\r\nBATARYASI % 100 SAĞLIKLI\r\n14 İNÇ EKRAN BOYUTU\r\n\r\nPHOTOSHOP + ILISTRATOR + COREL DRAW + AUTOCAD ve OFİS PROGRAMLARI YÜKLENİR\r\n\r\nİSTANBUL İÇİ MOTO KURYE İLE GÖNDERİM YAPILIR\r\n\r\n\r\nFatih mahallesi Küçükçekmece Meydan\r\n                             \r\n    Küçükçekmece Marmaray durağına 100m\r\n\r\n             Küçükçekmece Metrobüs durağına 450 m \r\n\r\n Whatsapp üzerinden konum alabilirsiniz.",
+    "business"
+  ]
+]
